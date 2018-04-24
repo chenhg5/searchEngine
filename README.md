@@ -7,3 +7,4 @@ a search engine customized for developer.
 - language grammar
 - main website result, github/stackflow...
 - source code
+- alfred support
